@@ -1,0 +1,26 @@
+[23 May 2024] We fixed some errors in probs.jsonl and tests.jsonl. Details are listed as follows.
+id 18, wrong entry_point, fixed
+id 30, wrong entry_point, fixed
+id 45, wrong entry_point, fixed. Problem is not clear?
+id 56, wrong entry_point, fixed, new function names for entry_point and the ones in tests and given_tests
+id 70, wrong entry_point, fixed, args wrong?
+id 146 seems correct??
+id 148, wrong entry_point, fixed
+id 151, wrong entry_point, fixed
+id 164, wrong entry_point, fixed
+id 181, wrong entry_point, fixed
+id 235 seems correct??
+
+id 323, wrong entry_point, fixed
+id 338, wrong entry_point, fixed
+id 348, wrong entry_point, fixed
+id 364, wrong entry_point, fixed
+id 367, need auxilarity class, not fixed
+id 466, wrong entry_point, fixed
+id 467, seems correct??
+id 485, wrong entry_point, fixed
+id 486, wrong entry_point, fixed
+id 501, wrong entry_point, fixed
+
+id 112 wrong place???
+id 155 wrong place???
