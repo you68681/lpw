@@ -9,11 +9,17 @@
   </a>
 </p>
 
+  
 This repository contains the code and dataset for our paper [**Planning-Driven Programming: A Large Language Model Programming Workflow**.](https://arxiv.org/abs/2411.14503)
 
 We propose an LLM programming workflow (**LPW**) designed to improve both initial code generation and subsequent refinements within a structured two-phase workflow. LPW sets new state-of-the-art Pass@1 accuracy, achieving **98.2%** on HumanEval, **84.8%** on MBPP, **59.3%** on LiveCode, **62.6%** on APPS, and **34.7%** on CodeContest, using GPT-4o as the backbone.
 
 ![image](assets/LPW_pipeline.png)
+
+
+## News
+
+### - 🎉 Our paper got accepted in [ACL 2025 (main track)]([https://2024.aclweb.org/](https://2025.aclweb.org/)).
 
 ## 📦 Installation
 
@@ -25,7 +31,7 @@ python -m pip install -r requirements.txt
 
 ## 📈 Usage
 
-### Set Environment
+#### Set Environment
 
 If you use OpenAI models as backbones:
 
