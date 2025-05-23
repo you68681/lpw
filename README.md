@@ -19,7 +19,7 @@ We propose an LLM programming workflow (**LPW**) designed to improve both initia
 
 ## News
 
-### - 🎉 Our paper got accepted in [ACL 2025 (main track)]([https://2024.aclweb.org/](https://2025.aclweb.org/)).
+### - 🎉 Our paper got accepted in [ACL 2025 (main track)](https://2025.aclweb.org/).
 
 ## 📦 Installation
 
